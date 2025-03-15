@@ -16,7 +16,7 @@ Untuk menjalankan dashboard dengan Streamlit, ikuti langkah-langkah berikut:
 2. Jalankan perintah berikut di terminal:
 
 ```
-streamlit run Air_Quality_Analysis.py
+streamlit run dashboard.py
 ```
 
 3. Dashboard akan terbuka secara otomatis di browser Anda. Jika tidak terbuka, akses secara manual melalui alamat berikut:
@@ -27,7 +27,7 @@ http://localhost:8501
 
 ## Struktur Proyek
 ```
-├── Air_Quality_Analysis.py
+├── dashboard.py
 ├── cleaned_air_quality.csv
 ├── requirements.txt
 └── README.md
